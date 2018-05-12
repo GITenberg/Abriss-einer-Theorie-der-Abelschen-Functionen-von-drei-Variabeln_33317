@@ -1,0 +1,31 @@
+_repo: Abriss-einer-Theorie-der-Abelschen-Functionen-von-drei-Variabeln_33317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schottky, Friedrich
+    alias: Schottky, F. (Friedrich)
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '36328'
+    url: http://www.gutenberg.org/2009/agents/36328
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Schottky
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Mathematics
+gutenberg_issued: '2010-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33317'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Functions, Abelian'
+title: Abriss einer Theorie der Abelschen Functionen von drei Variabeln
+url: http://www.gutenberg.org/ebooks/33317
